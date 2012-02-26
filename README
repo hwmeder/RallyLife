@@ -1,5 +1,5 @@
 src: contains the java source
-tst: contains the junit test cases
+tst: contains the JUnit 3 test cases
 resources: contains the board configuration files
 
 To execute, src, tst and resources must be on the classpath.
