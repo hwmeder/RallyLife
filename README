@@ -1,0 +1,11 @@
+src: contains the java source
+tst: contains the junit test cases
+resources: contains the board configuration files
+
+To execute, src, tst and resources must be on the classpath.
+
+Life.java contains the main method.
+Currently, no command line arguments are read.
+
+Currently, the application is hardcoded to process the board configuration in resources/pulsar.txt.
+
